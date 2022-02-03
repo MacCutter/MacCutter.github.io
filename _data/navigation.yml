@@ -5,8 +5,8 @@ main:
   - title: "Tag"
     url: /tags/  
 
-doc:
-    - title: "대목차"
+docs:
+    - title: "목차"
       children:
         -title: "Category"
          url: /categories/

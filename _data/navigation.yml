@@ -21,6 +21,8 @@ docs:
         url: /python/
       - title: "Java"
         url: /categories/#java
+      - title: "Algorithm"
+        url: /categories/#Algorithm
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

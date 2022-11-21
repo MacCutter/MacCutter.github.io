@@ -2,14 +2,14 @@
 layout: single
 title:  "Algorithm 같은 숫자는 싫어"
 categories: algorithm
-tag: [Java, algorithm, stack, programmers]
+tag: [Java, algorithm, stack, programmers, 프로그래머스, 같은 숫자는 싫어]
 toc: true
 author_profile: false
 sidebar:
     nav: "docs"
 ---
 ## 프로그래머스 알고리즘 문제(같은 숫자는 싫어)
-<br>
+
   ![같은 숫자는 싫어](/assets/img/problem.png)
 
 

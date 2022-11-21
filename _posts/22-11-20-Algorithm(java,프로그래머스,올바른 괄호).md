@@ -2,14 +2,14 @@
 layout: single
 title:  "Algorithm 올바른 괄호"
 categories: algorithm
-tag: [Java, algorithm, stack, programmers]
+tag: [Java, algorithm, stack, programmers, 프로그래머스, 올바른 괄호]
 toc: true
 author_profile: false
 sidebar:
     nav: "docs"
 ---
 ## 프로그래머스 알고리즘 문제(올바른 괄호)
-<br>
+
   ![올바른 괄호](/assets/img/problem1.png)
 
 

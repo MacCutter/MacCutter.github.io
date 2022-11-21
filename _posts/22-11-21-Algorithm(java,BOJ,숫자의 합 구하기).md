@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## 백준 알고리즘 문제(숫자의 합 구하기)
+## BOJ (숫자의 합 구하기)
 
   ![숫자의 합 구하기](/assets/img/BOJ11720.jpg)
 

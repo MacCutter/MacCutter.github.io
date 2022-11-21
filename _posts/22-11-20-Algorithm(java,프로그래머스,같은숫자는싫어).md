@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm 같은 숫자는 싫어"
+title:  "Algorithm Programmers 같은 숫자는 싫어"
 categories: algorithm
 tag: [Java, algorithm, stack, programmers, 프로그래머스, 같은 숫자는 싫어]
 toc: true

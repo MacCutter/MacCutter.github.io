@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm 올바른 괄호"
+title:  "Algorithm Programmers 올바른 괄호"
 categories: algorithm
 tag: [Java, algorithm, stack, programmers, 프로그래머스, 올바른 괄호]
 toc: true

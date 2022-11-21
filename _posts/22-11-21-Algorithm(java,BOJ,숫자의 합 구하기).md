@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm 올바른 괄호"
+title:  "Algorithm BOJ 숫자의 합 구하기"
 categories: algorithm
 tag: [Java, algorithm, stack, BOJ, 백준, 올바른 괄호, 수학, 문자열]
 toc: true
@@ -16,10 +16,11 @@ sidebar:
 <li>get valueN</li>
 <li>길이N의 숫자 String sNum에 입력받기</li>
 <li>make var for sum</li>
-<li>for (0 ~ N)</li>
+<li>loop for (0 ~ N)</li>
 <li>sNum의 각자리를 정수형으로 변환하며 sum에 누적</li>
 <li>print sum</li>
--  
+
+
 ```java
 import java.util.Scanner;
 

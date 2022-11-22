@@ -10,6 +10,7 @@ sidebar:
 ---
 ## BOJ (숫자의 합 구하기)
 
+### 문제
   ![숫자의 합 구하기](/assets/img/BOJ11720.jpg)
 
 ### 슈도코드
@@ -20,7 +21,7 @@ sidebar:
 <li>sNum의 각자리를 정수형으로 변환하며 sum에 누적</li>
 <li>print sum</li>
 
-
+### 코드구현
 ```java
 import java.util.Scanner;
 

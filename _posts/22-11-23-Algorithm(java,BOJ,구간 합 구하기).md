@@ -18,10 +18,10 @@ sidebar:
 <li>구간합 arr[a] - arr[b - 1]로 결과 출력</li>
 
 ### 슈도코드
-<li>get value N,M</li>
-<li>Array arr for N[i]</li>
 <li>var for N</li>
 <li>var for M</li>
+<li>get value N,M</li>
+<li>Array arr for N[i]</li>
 <li>loop for(1 ~ N) make sum array arr1 = arr1[i - 1] + arr2[i]</li>
 <li>loop for(0 ~ M) get M, 질의범위(a~b), print (arr[i] - arr[b - 1])</li>
 

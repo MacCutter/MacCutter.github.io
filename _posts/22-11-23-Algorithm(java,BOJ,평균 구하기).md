@@ -29,7 +29,7 @@ sidebar:
 ```java
 import java.util.Scanner;
 
-public class BOJ1546평균 {
+public class BOJ1546평 {
     public static void main(String[] args) {
 
       Scanner sc = new Scanner(System.in);
@@ -45,7 +45,7 @@ public class BOJ1546평균 {
           sum += arr[i];
           if (arr[i] > max) max = arr[i];
       }
-      System.out.println(sum * 100 / max / N);
+      System.out.println(sum * 100.0 / max / N);
     }
 }
 ```

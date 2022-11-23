@@ -2,7 +2,7 @@
 layout: single
 title:  "Algorithm BOJ 숫자의 합 구하기"
 categories: algorithm
-tag: [Java, algorithm, BOJ, 백준, 숫자의 합, 수학, 문자열, 백준11720]
+tag: [Java, algorithm, BOJ, 백준, 숫자의 합, 자료구조, 수학, 문자열, 백준11720]
 toc: true
 author_profile: false
 sidebar:
@@ -25,7 +25,7 @@ sidebar:
 ```java
 import java.util.Scanner;
 
-public class BOJ11720숫자의합 {
+public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

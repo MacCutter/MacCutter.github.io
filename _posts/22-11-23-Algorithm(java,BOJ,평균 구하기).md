@@ -2,7 +2,7 @@
 layout: single
 title:  "Algorithm BOJ 평균 구하기"
 categories: algorithm
-tag: [Java, algorithm, BOJ, 백준, 평균 구하기, 수학, 백준1546]
+tag: [Java, algorithm, BOJ, 백준, 평균 구하기, 자료구조, 수학, 백준1546]
 toc: true
 author_profile: false
 sidebar:
@@ -29,7 +29,7 @@ sidebar:
 ```java
 import java.util.Scanner;
 
-public class BOJ1546평 {
+public class Main {
     public static void main(String[] args) {
 
       Scanner sc = new Scanner(System.in);

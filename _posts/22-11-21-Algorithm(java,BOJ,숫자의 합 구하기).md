@@ -2,7 +2,7 @@
 layout: single
 title:  "Algorithm BOJ 숫자의 합 구하기"
 categories: algorithm
-tag: [Java, algorithm, stack, BOJ, 백준, 올바른 괄호, 수학, 문자열]
+tag: [Java, algorithm, BOJ, 백준, 숫자의 합, 수학, 문자열, 백준11720]
 toc: true
 author_profile: false
 sidebar:
@@ -14,7 +14,7 @@ sidebar:
   ![숫자의 합 구하기](/assets/img/BOJ11720.jpg)
 
 ### 슈도코드
-<li>get valueN</li>
+<li>get value N</li>
 <li>길이N의 숫자 String sNum에 입력받기</li>
 <li>make var for sum</li>
 <li>loop for (0 ~ N)</li>
@@ -25,14 +25,13 @@ sidebar:
 ```java
 import java.util.Scanner;
 
-public class Main {
+public class BOJ11720숫자의합 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
         String sNum = sc.next();
         sc.close();
-
         int sum = 0;
         for (int i = 0; i < N; i++) {
             sum += sNum.charAt(i) - '0';

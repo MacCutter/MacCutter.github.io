@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm BOJ 구간합 구하기(1)"
+title:  "Algorithm BOJ 구간합 구하기(1) 11659"
 categories: algorithm
 tag: [Java, algorithm, BOJ, 백준, 구간합 구하기, 자료구조, 수학, 백준11659]
 toc: true

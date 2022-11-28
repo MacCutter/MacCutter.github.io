@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm BOJ 숫자의 합 구하기"
+title:  "Algorithm BOJ 숫자의 합 구하기 11720"
 categories: algorithm
 tag: [Java, algorithm, BOJ, 백준, 숫자의 합, 자료구조, 수학, 문자열, 백준11720]
 toc: true
@@ -9,6 +9,7 @@ sidebar:
     nav: "docs"
 ---
 ## BOJ (숫자의 합 구하기)
+[문제링크](https://www.acmicpc.net/problem/11720)
 
 ### 문제
   ![숫자의 합 구하기](/assets/img/BOJ11720.jpg)

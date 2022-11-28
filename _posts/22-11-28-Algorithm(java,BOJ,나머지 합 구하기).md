@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm BOJ 나머지 합 구하기"
+title:  "Algorithm BOJ 나머지 합 구하기 10986"
 categories: algorithm
 tag: [Java, algorithm, BOJ, 백준, 나머지 합 구하기, 수학, 누적의 합, 백준10986]
 toc: true

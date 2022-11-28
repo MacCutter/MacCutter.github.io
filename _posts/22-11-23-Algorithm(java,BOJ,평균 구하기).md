@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm BOJ 평균 구하기"
+title:  "Algorithm BOJ 평균 구하기 1546"
 categories: algorithm
 tag: [Java, algorithm, BOJ, 백준, 평균 구하기, 자료구조, 수학, 백준1546]
 toc: true

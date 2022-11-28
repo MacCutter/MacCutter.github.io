@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 ## BOJ (숫자의 합 구하기)
-[문제링크](https://www.acmicpc.net/problem/11720)
+(https://www.acmicpc.net/problem/11720)
 
 ### 문제
   ![숫자의 합 구하기](/assets/img/BOJ11720.jpg)

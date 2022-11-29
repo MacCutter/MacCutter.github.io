@@ -2,7 +2,7 @@
 layout: single
 title:  "Algorithm BOJ 북극곰은 괄호를 찢어 25918"
 categories: algorithm
-tag: [Java, algorithm, BOJ, 백준, 자료구조, 그리디, 스택 백준25918]
+tag: [Java, algorithm, BOJ, 백준, 자료구조, 그리디, 스택, 백준25918]
 toc: true
 author_profile: false
 sidebar:

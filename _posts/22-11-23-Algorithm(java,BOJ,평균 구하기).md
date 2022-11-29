@@ -9,6 +9,7 @@ sidebar:
     nav: "docs"
 ---
 ## BOJ (평균 구하기)
+[https://www.acmicpc.net/problem/1546](https://www.acmicpc.net/problem/1546)
 
 ### 문제
   ![평균 구하기](/assets/img/BOJ1546.jpg)

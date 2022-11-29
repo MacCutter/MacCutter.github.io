@@ -9,6 +9,7 @@ sidebar:
     nav: "docs"
 ---
 ## BOJ (나머지 합 구하기)
+[https://www.acmicpc.net/problem/10986](https://www.acmicpc.net/problem/10986)
 
 ### 문제
   ![나머지 합 구하기](/assets/img/BOJ10986.jpg)

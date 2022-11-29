@@ -9,6 +9,7 @@ sidebar:
     nav: "docs"
 ---
 ## BOJ (구간합 구하기-1)
+[https://www.acmicpc.net/problem/11659](https://www.acmicpc.net/problem/11659)
 
 ### 문제
   ![구간합 구하기](/assets/img/BOJ11659.jpg)

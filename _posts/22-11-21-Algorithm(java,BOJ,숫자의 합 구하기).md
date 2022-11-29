@@ -12,7 +12,7 @@ sidebar:
 [https://www.acmicpc.net/problem/11720](https://www.acmicpc.net/problem/11720)
 
 ### 문제
-  ![숫자의 합 구하기](/assets/img/BOJ11720.jpg)
+![숫자의 합 구하기](/assets/img/BOJ11720.jpg)
 
 ### 슈도코드
 <li>get value N</li>

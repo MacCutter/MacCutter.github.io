@@ -12,7 +12,7 @@ sidebar:
 [https://www.acmicpc.net/problem/11659](https://www.acmicpc.net/problem/11659)
 
 ### 문제
-  ![구간합 구하기](/assets/img/BOJ11659.jpg)
+![구간합 구하기](/assets/img/BOJ11659.jpg)
 
 ### 풀이
 <li>N개의 수를 입력받으며 동시에 합배열 arr1[i] = arr1[i - 1] + arr2[i] 생성</li>

@@ -12,7 +12,7 @@ sidebar:
 [https://www.acmicpc.net/problem/11660](https://www.acmicpc.net/problem/11660)
 
 ### 문제
-  ![구간합 구하기](/assets/img/BOJ11660.jpg)
+![구간합 구하기](/assets/img/BOJ11660.jpg)
 
 ### 풀이
 <li>NxN의 배열을 반복으로 나열</li>

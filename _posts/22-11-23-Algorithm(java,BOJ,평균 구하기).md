@@ -12,7 +12,7 @@ sidebar:
 [https://www.acmicpc.net/problem/1546](https://www.acmicpc.net/problem/1546)
 
 ### 문제
-  ![평균 구하기](/assets/img/BOJ1546.jpg)
+![평균 구하기](/assets/img/BOJ1546.jpg)
 
 ### 풀이
 <li>max점수와 sum누적점수를 저장해서 sum * 100 / max / 과목수(N) 를 코드로 구현</li>

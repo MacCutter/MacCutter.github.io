@@ -12,7 +12,7 @@ sidebar:
 [https://www.acmicpc.net/problem/10986](https://www.acmicpc.net/problem/10986)
 
 ### 문제
-  ![나머지 합 구하기](/assets/img/BOJ10986.jpg)
+![나머지 합 구하기](/assets/img/BOJ10986.jpg)
 
 ### 풀이
 <li>입력받은N값 으로 누적된 합배열 S 생성</li>

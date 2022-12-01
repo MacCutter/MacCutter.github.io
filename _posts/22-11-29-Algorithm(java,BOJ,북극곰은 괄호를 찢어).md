@@ -22,16 +22,6 @@ sidebar:
 <li>아닐경우 문자를 빼고 깊이를 낮추고</li>
 <li>dMax는 항상 높았던걸로 갱신</li>
 
-### 슈도코드
-<li>var for N, s</li>
-<li>var for d, dMax</li>
-<li>loop for(0 ~ s.length) </li>
-<li>if stack empty or peek = s[i]</li>
-<li>push (i) in stack, plus d</li>
-<li>else pop from stack, minus d, renew dMax</li>
-<li>print -1 if stack empty</li>
-<li>print dmax if stack is not empty</li>
-
 ### 코드구현
 ```java
 import java.util.Scanner;

@@ -18,14 +18,6 @@ sidebar:
 <li>N개의 수를 입력받으며 동시에 합배열 arr1[i] = arr1[i - 1] + arr2[i] 생성</li>
 <li>구간합 arr[a] - arr[b - 1]로 결과 출력</li>
 
-### 슈도코드
-<li>var for N</li>
-<li>var for M</li>
-<li>get value N,M</li>
-<li>Array arr for N[i]</li>
-<li>loop for(1 ~ N) make sum array arr1 = arr1[i - 1] + arr2[i]</li>
-<li>loop for(0 ~ M) get M, 질의범위(a~b), print (arr[i] - arr[b - 1])</li>
-
 ### 코드구현
 ```java
 import java.io.BufferedReader;

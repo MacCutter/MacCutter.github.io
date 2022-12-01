@@ -14,14 +14,6 @@ sidebar:
 ### 문제
 ![숫자의 합 구하기](/assets/img/BOJ11720.jpg)
 
-### 슈도코드
-<li>get value N</li>
-<li>길이N의 숫자 String sNum에 입력받기</li>
-<li>make var for sum</li>
-<li>loop for (0 ~ N)</li>
-<li>sNum의 각자리를 정수형으로 변환하며 sum에 누적</li>
-<li>print sum</li>
-
 ### 코드구현
 ```java
 import java.util.Scanner;

@@ -17,15 +17,6 @@ sidebar:
 ### 풀이
 <li>max점수와 sum누적점수를 저장해서 sum * 100 / max / 과목수(N) 를 코드로 구현</li>
 
-### 슈도코드
-<li>get value N</li>
-<li>Array arr for N[i]</li>
-<li>loop for(0 ~ N) score save</li>
-<li>var for max</li>
-<li>var for sum</li>
-<li>loop for(0 ~ N) max, sum</li>
-<li>print sum * 100 / max / N</li>
-
 ### 코드구현
 ```java
 import java.util.Scanner;

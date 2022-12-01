@@ -21,14 +21,6 @@ sidebar:
 <li>덮어씌워진 합배열에서 같은 인덱스개수를 카운팅</li>
 <li>answer에 0이 3개일때(3C2) 1이 2개일때(2C2)..합</li>
 
-### 슈도코드
-<li>var for N, M</li>
-<li>array for S, C</li>
-<li>var for answer</li>
-<li>loop for sum array</li>
-<li>loop for remainder, if == 0 answer +, else count C</li>
-<li>sum answer and permutation</li>
-
 ### 코드구현
 ```java
 import java.util.Scanner;

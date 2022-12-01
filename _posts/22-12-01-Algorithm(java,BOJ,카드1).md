@@ -1,18 +1,18 @@
 ---
 layout: single
-title:  "Algorithm BOJ 연속된 자연수의 합 2018"
+title:  "Algorithm BOJ 카드1 2018"
 categories: algorithm
-tag: [Java, algorithm, BOJ, 백준, 자료구조, 그리디, 스택, 백준2018]
+tag: [Java, algorithm, BOJ, 백준, 자료구조, 구현, 큐, 백준2161]
 toc: true
 author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ (연속된 자연수의 합)
-[https://www.acmicpc.net/problem/2018](https://www.acmicpc.net/problem/2018)
+## BOJ (카드1)
+[https://www.acmicpc.net/problem/2161](https://www.acmicpc.net/problem/2161)
 
 ### 문제
-![연속된 자연수의 합](/assets/img/BOJ2018.jpg)
+![카드1](/assets/img/BOJ2161.jpg)
 
 ### 풀이
 <li>N의자연수를 받으면 연속된 자연수의 합이 N이 되는 경우의 수 더하는 문제</li>
@@ -25,6 +25,7 @@ sidebar:
 <li>sum > N 경우 sum-startIdx(이전시작을 없애고) startIdx++(다음시작으로 당겨주고)</li>
 <li>sum < N 경우 endIdx++(끝에하나 늘려주고) sum+endIdx(그값을 더해주고)</li>
 <li>출력</li>
+
 
 ### 코드구현
 ```java

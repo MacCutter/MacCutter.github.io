@@ -19,15 +19,6 @@ sidebar:
 <li>연산이 중복되지 않도록 구간합 배열 따로생성</li>
 <li>D[x2][y2] - D[x1 - 1][y2] - D[x2][y1 - 1] + D[x1 - 1][y1 - 1]로 결과 출력</li>
 
-### 슈도코드
-<li>var for N</li>
-<li>var for M</li>
-<li>save original array in double loop</li>
-<li>save sum array in double loop</li>
-<li>D[i][j] = D[i][j - 1] + D[i - 1][j] - D[i - 1][j - 1] + A[i][j]</li>
-<li>print result in double loop</li>
-<li>D[x2][y2] - D[x1 - 1][y2] - D[x2][y1 - 1] + D[x1 - 1][y1 - 1]</li>
-
 ### 코드구현
 ```java
 import java.io.BufferedReader;

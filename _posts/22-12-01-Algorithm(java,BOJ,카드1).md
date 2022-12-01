@@ -15,45 +15,40 @@ sidebar:
 ![카드1](/assets/img/BOJ2161.jpg)
 
 ### 풀이
-<li>N의자연수를 받으면 연속된 자연수의 합이 N이 되는 경우의 수 더하는 문제</li>
-<li>투포인터 startIdx, endIdx를 이용해 숫자를 증가시켜가며 진행</li>
-<li>cnt = 1인 이유는 N이 마지막 자기자신(N) 만으로 구성된것을 미리 카운팅</li>
-<li>startIdx, endIdx 1인 이유는 숫자1부터 더해지는 의미가 있어서</li>
-<li>sum도 위와 마찬가지로 1부터 더해진 의미가 있어서</li>
-<li>반복문(while (!endIdx == N)) 돌면서 sum == N 인경우 카운팅</li>
-<li>sum = N 경우 endIdx하나 늘려주고 카운팅++</li>
-<li>sum > N 경우 sum-startIdx(이전시작을 없애고) startIdx++(다음시작으로 당겨주고)</li>
-<li>sum < N 경우 endIdx++(끝에하나 늘려주고) sum+endIdx(그값을 더해주고)</li>
-<li>출력</li>
-
+<li>N장의 카드를 받아 1번카드가 제일위에 N번카드가 제일 밑으로 간상태</li>
+<li>1번카드를 버리고(출력) 2번카드가 N번카드의 밑으로 가고 반복</li>
+<li>N개의카드만큼 버리게되서 N개의 카드를 출력하면 되는 문제</li>
+<li>반복문으로 queue를 이용하여 front로 카드를 버리고 rear로 카드를 넣는방법</li>
+<li>배열 result를 만들어 버리는카드를 하나씩 받아서 최종 출력</li>
 
 ### 코드구현
 ```java
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int cnt = 1;
-        int startIdx = 1;
-        int endIdx = 1;
-        int sum = 1;
 
-        while (endIdx != N) {
-            if (sum == N) {
-                cnt++;
-                endIdx++;
-                sum = sum + endIdx;
-            } else if (sum > N) {
-                sum = sum - startIdx;
-                startIdx++;
-            } else {
-                endIdx++;
-                sum = sum + endIdx;
-            }
+        Scanner sc = new Scanner(System.in);
+        Queue<Integer> queue = new LinkedList<>();
+        int N = sc.nextInt();
+        int[] result = new int[N];
+
+        for (int i = 1; i <= N; i++) {
+            queue.add(i);
+            System.out.println(queue);
         }
-        System.out.println(cnt);
+
+        for (int i = 0; i < N; i++) {
+            result[i] = queue.poll();
+            queue.add(queue.poll());
+            System.out.println(queue);
+        }
+
+        for (int i : result) {
+            System.out.println(i);
+        }
     }
-}    
+}
 ```

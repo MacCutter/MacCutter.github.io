@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm BOJ 카드1 2018"
+title:  "Algorithm BOJ 카드1 2161"
 categories: algorithm
 tag: [Java, algorithm, BOJ, 백준, 자료구조, 구현, 큐, 백준2161]
 toc: true
@@ -37,13 +37,11 @@ public class Main {
 
         for (int i = 1; i <= N; i++) {
             queue.add(i);
-            System.out.println(queue);
         }
 
         for (int i = 0; i < N; i++) {
             result[i] = queue.poll();
             queue.add(queue.poll());
-            System.out.println(queue);
         }
 
         for (int i : result) {

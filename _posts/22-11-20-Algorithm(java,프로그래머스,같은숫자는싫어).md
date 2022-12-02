@@ -2,7 +2,7 @@
 layout: single
 title:  "Algorithm Programmers 같은 숫자는 싫어"
 categories: algorithm
-tag: [Java, algorithm, stack, programmers, 프로그래머스, 같은 숫자는 싫어]
+tag: [Java, algorithm, programmers, 프로그래머스, 같은 숫자는 싫어]
 toc: true
 author_profile: false
 sidebar:

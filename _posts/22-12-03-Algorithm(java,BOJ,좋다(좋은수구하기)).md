@@ -52,12 +52,12 @@ public class Main {
 
             while (i < j) {
                 if (A[i] + A[j] == find) {
-                    if (i != k && j != k) {
+                    if (i != k && j != k) {     // 두수의 합이어야 하므로 좋은수가 자기자신이면 제외
                         count++;
                         break;
-                    } else if (i == k) {    // 두수의 합이어야 하므로 좋은수가 자기자신이면 제외
+                    } else if (i == k) {
                         i++;
-                    } else if (j == k) {    // 두수의 합이어야 하므로 좋은수가 자기자신이면 제외
+                    } else if (j == k) {
                         j--;
                     }
                 } else if (A[i] + A[j] < find) {

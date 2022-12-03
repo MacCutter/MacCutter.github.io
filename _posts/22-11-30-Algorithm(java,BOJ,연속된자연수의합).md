@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ (연속된 자연수의 합)
+## BOJ 연속된 자연수의 합
 [https://www.acmicpc.net/problem/2018](https://www.acmicpc.net/problem/2018)
 
 ### 문제

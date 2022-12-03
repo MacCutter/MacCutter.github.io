@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## Programmers (올바른 괄호)
+## Programmers 올바른 괄호
 
   ![올바른 괄호](/assets/img/problem1.png)
 

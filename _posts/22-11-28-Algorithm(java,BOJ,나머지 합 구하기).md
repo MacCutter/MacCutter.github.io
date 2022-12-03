@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ (나머지 합 구하기)
+## BOJ 나머지 합 구하기
 [https://www.acmicpc.net/problem/10986](https://www.acmicpc.net/problem/10986)
 
 ### 문제

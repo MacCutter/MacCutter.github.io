@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ (카드1)
+## BOJ 카드1
 [https://www.acmicpc.net/problem/2161](https://www.acmicpc.net/problem/2161)
 
 ### 문제

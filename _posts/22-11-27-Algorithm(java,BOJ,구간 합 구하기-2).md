@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ (구간합 구하기-2)
+## BOJ 구간합 구하기-2
 [https://www.acmicpc.net/problem/11660](https://www.acmicpc.net/problem/11660)
 
 ### 문제

@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ (좋다(좋은수구하기))
+## BOJ 좋다(좋은수구하기)
 [https://www.acmicpc.net/problem/1253](https://www.acmicpc.net/problem/1253)
 
 ### 문제

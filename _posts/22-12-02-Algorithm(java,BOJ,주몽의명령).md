@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ (주몽의명령)
+## BOJ 주몽의명령
 [https://www.acmicpc.net/problem/1940](https://www.acmicpc.net/problem/1940)
 
 ### 문제

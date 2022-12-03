@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## Programmers (같은 숫자는 싫어)
+## Programmers 같은 숫자는 싫어
 
   ![같은 숫자는 싫어](/assets/img/problem.png)
 

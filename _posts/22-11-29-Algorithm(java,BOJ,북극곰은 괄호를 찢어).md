@@ -8,7 +8,7 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ (북극곰은 괄호를 찢어)
+## BOJ 북극곰은 괄호를 찢어
 [https://www.acmicpc.net/problem/25918](https://www.acmicpc.net/problem/25918)
 
 ### 문제

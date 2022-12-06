@@ -12,7 +12,7 @@ sidebar:
 [https://www.acmicpc.net/problem/1874](https://www.acmicpc.net/problem/1874)
 
 ### 문제
-![스택수열](/assets/img/1874.jpg)
+![스택수열](/assets/img/BOJ1874.jpg)
 
 ### 풀이
 <li>스택에 숫자를 push하면 + pop하면 - 를 출력하는 문제</li>

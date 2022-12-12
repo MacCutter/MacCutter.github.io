@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm BOJ 친구관계파악하기 13023"
+title:  "Algorithm BOJ ABCDE(친구관계) 13023"
 categories: algorithm
 tag: [Java, algorithm, BOJ, 수학, 소수판정, DFS/BFS, 백준13023]
 toc: true
@@ -8,11 +8,11 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-## BOJ 친구관계파악하기
+## BOJ ABCDE(친구관계)
 [https://www.acmicpc.net/problem/13023](https://www.acmicpc.net/problem/13023)
 
 ### 문제
-![친구관계파악하기](/assets/img/BOJ13023.jpg)
+![ABCDE(친구관계)](/assets/img/BOJ13023.jpg)
 
 ### 풀이
 <li>그래프 데이터를 인접리스트에 저장</li>

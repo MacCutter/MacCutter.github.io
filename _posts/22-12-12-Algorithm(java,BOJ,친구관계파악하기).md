@@ -2,7 +2,7 @@
 layout: single
 title:  "Algorithm BOJ ABCDE(친구관계) 13023"
 categories: algorithm
-tag: [Java, algorithm, BOJ, 수학, 소수판정, DFS/BFS, 백준13023]
+tag: [Java, algorithm, BOJ, 수학, 그래프, 탐색, DFS/BFS, 백준13023]
 toc: true
 author_profile: false
 sidebar:

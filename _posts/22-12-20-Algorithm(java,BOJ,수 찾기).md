@@ -2,7 +2,7 @@
 layout: single
 title:  "Algorithm BOJ 수 찾기 1920"
 categories: algorithm
-tag: [Java, algorithm, BOJ, 수학, 그래프, 탐색, DFS/BFS, 백준1920]
+tag: [Java, algorithm, BOJ, 자료구조, 정렬, 이진탐색, 백준1920]
 toc: true
 author_profile: false
 sidebar:

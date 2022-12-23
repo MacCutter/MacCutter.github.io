@@ -48,10 +48,10 @@ public class Main {
                 sum = sum + A[i];
             }
             if (sum != 0) count++;  // 마지막 레슨담은 블루레이가 0이아니면 필요한 갯수이므로 ++
-            if (count > M) {
+            if (count > M) {  // 첫케이스는 false(middle 값으로 count만큼 저장 가능)
                 start = middle + 1;
             } else
-                end = middle - 1;
+                end = middle - 1; // 첫케이스에서 충분히 저장이되니 미드값을 내려봄
         }
         System.out.println(start);
     }
